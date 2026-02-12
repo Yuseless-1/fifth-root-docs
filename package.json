@@ -1,0 +1,29 @@
+{
+  "name": "fifth-root-docs",
+  "version": "1.0.0",
+  "description": "Game design documentation for Fifth Root - Hybrid Physical/Virtual Trading Card RPG on Solana",
+  "author": "ROOT5 DAO",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/root5-dao/fifth-root-docs"
+  },
+  "keywords": [
+    "fifth-root",
+    "trading-card-game",
+    "tcg",
+    "solana",
+    "blockchain",
+    "nft",
+    "rpg",
+    "game-design",
+    "documentation"
+  ],
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "build-html": "echo 'Documentation is markdown-based. Use a markdown viewer or GitHub.'",
+    "lint": "echo 'No linting configured for markdown docs'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
