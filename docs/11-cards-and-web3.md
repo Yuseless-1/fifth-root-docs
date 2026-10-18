@@ -244,4 +244,4 @@ Sprite cards with trait seals trade for 15–40% above their base rarity value i
 
 The Grand Counsel publishes a quarterly **Trait Rarity Report** that updates these premiums based on current circulation numbers.
 
-> *"Some seeds hum with echoes. Some burn with borrowed suns. The card remembers what the eye barely sees."* — Root5 collector codexHEREDOC
+> *"Some seeds hum with echoes. Some burn with borrowed suns. The card remembers what the eye barely sees."* — Root5 collector
