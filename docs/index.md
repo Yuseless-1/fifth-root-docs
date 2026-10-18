@@ -10,6 +10,7 @@
 
 | File | Contents |
 |------|----------|
+| [00-design-direction.md](00-design-direction.md) | **Founder direction (canon v1). Overrides every other chapter where they disagree.** |
 | [01-world-lore.md](01-world-lore.md) | The ROOT Kingdom, the Tree of Life, the Aether |
 | [02-character-creation.md](02-character-creation.md) | Birth, gender, guild assignment, starting stats |
 | [03-guilds.md](03-guilds.md) | The four guilds — Ground, Fire, Water, Energy |

@@ -29,6 +29,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Design Direction (canon v1): 00-design-direction.md
   - The World:
       - World & Lore: 01-world-lore.md
       - The Guilds: 03-guilds.md
