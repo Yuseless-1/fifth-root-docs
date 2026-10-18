@@ -1,3 +1,6 @@
+!!! note "Early technical draft (Feb 2026)"
+    Kept for reference. Where it disagrees with the main chapters, the main chapters are current.
+
 # Fifth Root: Level 1 Gameplay
 
 The Sims-style RPG Experience for all players.

@@ -1,3 +1,6 @@
+!!! note "Early technical draft (Feb 2026)"
+    Kept for reference. Where it disagrees with the main chapters, the main chapters are current.
+
 # Fifth Root: Events System
 
 Guild events, tournaments, and raids documentation.

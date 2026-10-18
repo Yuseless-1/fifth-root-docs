@@ -1,11 +1,4 @@
-node_modules/
-.env
-.env.local
+site/
+__pycache__/
 .DS_Store
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
-dist/
-build/
+node_modules/

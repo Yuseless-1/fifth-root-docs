@@ -1,0 +1,90 @@
+site_name: The Fifth Root — Game Docs
+site_description: Game design documentation for The Fifth Root, the ROOT5 DAO hybrid physical/digital trading card RPG on Solana
+site_author: ROOT5 DAO
+site_url: https://yuseless-1.github.io/fifth-root-docs/
+repo_url: https://github.com/Yuseless-1/fifth-root-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light green
+      toggle: { icon: material/weather-sunny, name: Light mode }
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light green
+      toggle: { icon: material/weather-night, name: Dark mode }
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - The World:
+      - World & Lore: 01-world-lore.md
+      - The Guilds: 03-guilds.md
+      - Chad: 14-chad.md
+  - Playing:
+      - Character Creation: 02-character-creation.md
+      - Progression: 04-character-progression.md
+      - Abilities: 05-abilities.md
+      - Sprites: 06-sprites.md
+      - Battle System: 07-battle-system.md
+      - Root & Rooth Combat: 15-root-and-rooth-combat.md
+      - Training: 08-training-system.md
+      - Guild Warfare: 09-guild-warfare.md
+      - Quests: 12-quests.md
+      - Accessories & Items: 16-accessories.md
+  - Governance & Economy:
+      - Counsel Structure: 10-counsel-structure.md
+      - Cards & Web3: 11-cards-and-web3.md
+      - Economy: 13-economy.md
+  - Art:
+      - Art Production Guide: 17-art-production.md
+  - Technical drafts (Feb 2026):
+      - Build Guide: technical/01-build-guide.md
+      - Game Architecture: technical/02-game-architecture.md
+      - Character Creation (v1): technical/03-character-creation.md
+      - Level 1 Gameplay: technical/04-level-1-gameplay.md
+      - Character Evolution: technical/05-character-evolution.md
+      - Sprites & Abilities (v1): technical/06-sprites-abilities.md
+      - Events System: technical/07-events-system.md
+      - Dice System: technical/08-dice-system.md
+      - Ability System: technical/09-ability-system.md
+      - Accessory System: technical/10-accessory-system.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/root5portal
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/root5dao/
+    - icon: material/web
+      link: https://www.root5dao.com
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist: { custom_checkbox: true }
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc: { permalink: true }
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - tables
+
+copyright: 'ROOT5 DAO © 2026 · Game design is a living draft and may change.'

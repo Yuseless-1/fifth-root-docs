@@ -1,3 +1,6 @@
+!!! note "Early technical draft (Feb 2026)"
+    Kept for reference. Where it disagrees with the main chapters, the main chapters are current.
+
 # Fifth Root: Rosebud.ai Development Guide
 
 How to Build Fifth Root Using AI-Powered Game Development
