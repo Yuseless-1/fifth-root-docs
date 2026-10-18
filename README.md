@@ -2,7 +2,7 @@
 
 Game design documentation for **The Fifth Root**, the ROOT5 DAO hybrid physical/digital trading card RPG.
 
-**Read it:** https://yuseless-1.github.io/fifth-root-docs/ · Site: https://www.root5dao.com
+**Read it:** https://docs.root5dao.com/ · Site: https://www.root5dao.com
 
 - `docs/` — the current design chapters (01–17). Source of truth.
 - `docs/technical/` — early technical drafts (Feb 2026), kept for reference.
